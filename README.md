@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, Saya Nur Samira 👋
 
-<!--
-**nursamira-blip/nursamira-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Selamat datang ke profil GitHub saya! Saya merupakan pelajar tahun pertama Data Engineering di UTM.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Mengenai Saya
+
+- 🌱 **Sedang Mempelajari:**
+  
+  - Asas Pengaturcaraan (Python & C++)
+  - Ekosistem kejuruteraan data
+  - Asas Git & GitHub
+
+---
+
+## 📬 Hubungi Saya
+
+- **E-mel:** nursamira@graduate.utm.my
